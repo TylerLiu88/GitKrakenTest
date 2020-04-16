@@ -1,0 +1,3 @@
+[submodule "Source/GitKrakenTest/VRBase"]
+	path = Source/GitKrakenTest/VRBase
+	url = https://github.com/MMC-Scholars/VRBase.git
